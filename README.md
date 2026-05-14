@@ -32,7 +32,7 @@
 * Локализовала критические ошибки бэкенда (`500 Internal Server Error` и логические конфликты `409 Conflict`).
 * Разработала и выгрузила интеграционную коллекцию запросов для Postman (17+ ручек).
 
-👉 **[Посмотреть детальный кейс и файлы проекта в репозитории iot-smart-home-testing]([https://github.com](https://github.com/711zhenek1987-dev/iot-smart-home-testing.git)**  
+👉 **[Посмотреть детальный кейс и файлы проекта в репозитории iot-smart-home-testing]([https://github.com](https://github.com/711zhenek1987-dev/iot-smart-home-testing.git))**  
 
 ### 2. Примеры SQL-запросов
 В ходе учебных и практических задач регулярно применяю SQL для верификации данных на бэкенде.
